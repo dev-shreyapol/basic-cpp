@@ -1,0 +1,8 @@
+1. Create a program lets with file test.c
+2. To compile gcc test.c -o test
+3. To run ./test
+
+If you want to create compiled files in one of the folder then create folder named compiled
+mkdir compiled
+Then To compile gcc test.c -o ./compiled/test
+To run ./compiled/test
